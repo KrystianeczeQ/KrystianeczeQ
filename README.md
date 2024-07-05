@@ -1,4 +1,5 @@
-Hi, I'm Krystian. I am a Java developer from Poland. I'm currently working as technik server, mainly as Bukkit and Bungeecord plugins programmer. I did some projects with Python, Go, PHP and more. Contact me if you have some questions!
+Hi, I'm Krystian. ![](https://komarev.com/ghpvc/?username=KrystianeczeQ&color=blueviolet)
+ I am a Java developer from Poland. I'm currently working as technik server, mainly as Bukkit and Bungeecord plugins programmer. I did some projects with Python, JavaScript, PHP and more. Contact me if you have some questions!
 
 #### 👨‍💼 About me:
 - 👨‍💻 I'm 22 years old Java Developer
@@ -8,7 +9,7 @@ Hi, I'm Krystian. I am a Java developer from Poland. I'm currently working as te
 - 🌐 Visit my [website](https://guns.lol/Prosek1337) for complete presentation!
 
 #### 📨 Contact:
-[<img src="https://img.shields.io/badge/website-%234285F4.svg?&style=for-the-badge&logo=safari&logoColor=white" />](https://mikigal.pl/)
+[<img src="https://img.shields.io/badge/website-%234285F4.svg?&style=for-the-badge&logo=safari&logoColor=white" />](https://nohello.pl/)
 [<img src="https://img.shields.io/badge/Prosek2137-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/prosek1337)
 [<img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:chuj)
