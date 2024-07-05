@@ -1,8 +1,8 @@
 Hi, I'm Krystian. ![](https://komarev.com/ghpvc/?username=KrystianeczeQ&color=blueviolet)
- I am a Java developer from Poland. I'm currently working as technik server, mainly as Bukkit and Bungeecord plugins programmer. I did some projects with Python, JavaScript, PHP and more. Contact me if you have some questions!
+ I am a Java developer from Poland. I'm currently working as technik server, mainly as Bukkit and Bungeecord plugins programmer. I did some projects with Python, JavaScript, Discord.JS, PHP and more. Contact me if you have some questions!
 
 #### 👨‍💼 About me:
-- 👨‍💻 I'm 22 years old Java Developer
+- 👨‍💻 I'm 18 years old Java Developer
 - 📖 Learing backend web development, mainly Spring with Hibernate
 - 💰 Currently working as freelancer, coding Bukkit and BungeeCord plugins
 - 🛠️ Love Hackintoshes and iOS jailbreaking
@@ -18,6 +18,7 @@ Hi, I'm Krystian. ![](https://komarev.com/ghpvc/?username=KrystianeczeQ&color=bl
 
 #### ⚙️ Tech Stack:
 [<img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />](https://docs.oracle.com/en/java/)
+[<img src="https://img.shields.io/badge/JavaScript%20-%23007396.svg?&style=for-the-badge&logo=javascript&logoColor=white" />](https://discord.js.org/docs/packages/discord.js/14.15.3)
 [<img src="https://img.shields.io/badge/Python%20-%236DB33F.svg?&style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org)
 [<img src="https://img.shields.io/badge/bukkit%20-%23DB1F29.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/)
 [<img src="https://img.shields.io/badge/bungeecord%20-%23DB1F29.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/wiki/about-bungeecord/)
