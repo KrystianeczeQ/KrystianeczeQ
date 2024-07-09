@@ -3,10 +3,15 @@ Hi, I'm Krystian. ![](https://komarev.com/ghpvc/?username=KrystianeczeQ&color=bl
 
 #### 👨‍💼 About me:
 - 👨‍💻 I'm 18 years old Java Developer
+- 🤖 Websites, Android Apps, Plugins, etc.
+- 🇵🇱 Poland
+- 👨🏻‍🎓 Student at Tech
+- 💻 Software Developer
 - 📖 Learing backend web development, mainly Spring with Hibernate
 - 💰 Currently working as freelancer, coding Bukkit and BungeeCord plugins
 - 🛠️ Love Hackintoshes and iOS jailbreaking
-- 🌐 Visit my [website](https://guns.lol/Prosek1337) for complete presentation!
+- ⌨️ CEO of Prosek Software Development
+- 🌐 Visit my [website](https://guns.lol/Prosek1337) 📧 info@prosek.pl for complete presentation!
 
 #### 📨 Contact:
 [<img src="https://img.shields.io/badge/website-%234285F4.svg?&style=for-the-badge&logo=safari&logoColor=white" />](https://nohello.pl/)
