@@ -1,4 +1,4 @@
-Hi, I'm Krystian. ![](https://komarev.com/ghpvc/?username=KrystianeczeQ&color=blueviolet)
+Hi, I'm Oliwier. ![](https://komarev.com/ghpvc/?username=KrystianeczeQ&color=blueviolet)
  I am a Java developer from Poland. I'm currently working as technik server, mainly as Bukkit and Bungeecord plugins programmer. I did some projects with Python, JavaScript, Discord.JS, PHP and more. Contact me if you have some questions!
 
 #### 👨‍💼 About me:
