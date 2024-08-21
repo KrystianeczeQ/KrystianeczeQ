@@ -14,11 +14,6 @@ Copyright statements must be included in:
 - ``LICENSE`` file in the root of the repository.
 - Headers of all source code files.
 
-Each copyright holder must have their own copyright statement::
-
-    Copyright (C) 2015-2019 CERN
-    Copyright (C) 2019 Some company
-
 **Copyright holders**
 
 Each copyright holder **must** be a legal entity.
@@ -42,25 +37,3 @@ CS3 Organization are not considered legal entities by the law.
 Maintainers are responsible for asking each contributor who is the copyright
 holder of a given contribution (often, it's the employer who holds the
 copyright).
-
-**Attribution**
-
-Attribution is not tracked via copyright, but via the ``AUTHORS`` file.
-
-Explicit agreement
-------------------
-**Contributions only via GitHub**
-
-All contributions **MUST** be opened via pull requests on GitHub.
-
-This way contributors have agreed to the [GitHub Terms of Use](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license),
-which states :
-
-```
-"Whenever you make a contribution to a repository containing notice of a
-license, you license your contribution under the same terms, and you agree
-that you have the right to license your contribution under those terms."
-```
-
-This method avoid introducing either a Contributor License Agreement (CLAs) or
-a Developer Certificate of Origin.
