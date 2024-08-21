@@ -43,4 +43,4 @@ Hi, I'm Krystian. ![](https://komarev.com/ghpvc/?username=KrystianeczeQ&color=bl
 </div>
 
 ## 📄 Licencja
-Ten opis jest dostępny na licencji MIT – zapoznaj się z plikiem [LICENSE](LICENSE), aby uzyskać więcej informacji.
+Ten opis jest dostępny na licencji Copyright 2024 – zapoznaj się z plikiem [COPYRIGHT.md](COPYRIGHT.md), aby uzyskać więcej informacji.
