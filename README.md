@@ -41,3 +41,6 @@ Hi, I'm Krystian. ![](https://komarev.com/ghpvc/?username=KrystianeczeQ&color=bl
   <img src="https://github-readme-stats.vercel.app/api?username=KrystianeczeQ&show_icons=true&theme=radical&line_height=24&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystianeczeQ&theme=radical&layout=compact" />
 </div>
+
+## 📄 Licencja
+Ten opis jest dostępny na licencji MIT – zapoznaj się z plikiem [LICENSE](LICENSE), aby uzyskać więcej informacji.
